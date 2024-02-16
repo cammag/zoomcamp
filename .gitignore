@@ -2,3 +2,6 @@
 ny_taxi_postgres_data/
 yellow_tripdata_2021-01.csv
 yellow_tripdata_2021-01.parquet
+key_zoomcamp.json
+dev.env
+.env
